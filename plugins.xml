@@ -1,12 +1,14 @@
 <plugins>
     <pyqgis_plugin name="AvailabilityCalculator" version="0.1">                 
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <download_url>https://github.com/Sapfir0/AvailabilityCalculator</download_url>
+        <download_url>https://github.com/Sapfir0/AvailabilityCalculator/heads/refs/master.zip</download_url>
+        <repository>https://github.com/Sapfir0/AvailabilityCalculator</repository>
         <author>Alexander Yurev</author>
     </pyqgis_plugin>
     <pyqgis_plugin name="Coordinate Transfer" version="0.1">                 
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <download_url>http://repo</download_url>
+        <download_url>https://github.com/MaxSh0/Coordinate_transfer/heads/refs/master.zip</download_url>
+        <repository>http://repo</repository>
         <author>m</author>
     </pyqgis_plugin>
 </plugins>
