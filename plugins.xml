@@ -5,6 +5,7 @@
         <download_url>https://github.com/Sapfir0/AvailabilityCalculator/archive/refs/heads/master.zip</download_url>
         <repository>https://github.com/Sapfir0/AvailabilityCalculator</repository>
         <author_name>Alexander Yurev</author_name>
+        <file_name>master.zip</file_name>
     </pyqgis_plugin>
     <pyqgis_plugin name="Coordinate Transfer" version="0.1">  
         <description>Coordinate Transfer</description>
@@ -12,6 +13,7 @@
         <download_url>https://github.com/MaxSh0/Coordinate_transfer/archive/refs/heads/main.zip</download_url>
         <repository>https://github.com/MaxSh0/Coordinate_transfer</repository>
         <author_name>Maxim</author_name>
+        <file_name>main.zip</file_name>
     </pyqgis_plugin>
     <pyqgis_plugin name="Geometric Calculator" version="0.1">  
         <description>This plugin calcs geometric indicators</description>
@@ -19,6 +21,7 @@
         <download_url>https://github.com/NorthisRP/QGisGeomCalc/archive/refs/heads/main.zip</download_url>
         <repository>https://github.com/NorthisRP/QGisGeomCalc</repository>
         <author_name>Roman</author_name>
+        <file_name>main.zip</file_name>
     </pyqgis_plugin>
     <pyqgis_plugin name="Classifer Plagin" version="0.1"> 
         <description>classification of the types of permitted use of land plots in the cadastre based on a dictionary with the possibility of supplementing it</description>
@@ -26,5 +29,6 @@
         <download_url>https://github.com/anastasiaskbb/PluginClassificator/archive/refs/heads/main.zip</download_url>
         <repository>https://github.com/anastasiaskbb/PluginClassificator</repository>
         <author_name>Anastasia Zavorotnyaya</author_name>
+        <file_name>main.zip</file_name>
     </pyqgis_plugin>
 </plugins>
