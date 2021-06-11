@@ -1,14 +1,30 @@
 <plugins>
     <pyqgis_plugin name="AvailabilityCalculator" version="0.1">                 
         <qgis_minimum_version>3.0</qgis_minimum_version>
+        <description>Availability calculator</description>
         <download_url>https://github.com/Sapfir0/AvailabilityCalculator/archive/refs/heads/master.zip</download_url>
         <repository>https://github.com/Sapfir0/AvailabilityCalculator</repository>
         <author_name>Alexander Yurev</author_name>
     </pyqgis_plugin>
-    <pyqgis_plugin name="Coordinate Transfer" version="0.1">                 
+    <pyqgis_plugin name="Coordinate Transfer" version="0.1">  
+        <description>Coordinate Transfer</description>
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <download_url>https://github.com/MaxSh0/Coordinate_transfer/archive/refs/heads/master.zip</download_url>
+        <download_url>https://github.com/MaxSh0/Coordinate_transfer/archive/refs/heads/main.zip</download_url>
         <repository>https://github.com/MaxSh0/Coordinate_transfer</repository>
         <author_name>Maxim</author_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Geometric Calculator" version="0.1">  
+        <description>This plugin calcs geometric indicators</description>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <download_url>https://github.com/NorthisRP/QGisGeomCalc/archive/refs/heads/main.zip</download_url>
+        <repository>https://github.com/NorthisRP/QGisGeomCalc</repository>
+        <author_name>Roman</author_name>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Classifer Plagin" version="0.1"> 
+        <description>classification of the types of permitted use of land plots in the cadastre based on a dictionary with the possibility of supplementing it</description>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <download_url>https://github.com/anastasiaskbb/PluginClassificator/archive/refs/heads/main.zip</download_url>
+        <repository>https://github.com/anastasiaskbb/PluginClassificator</repository>
+        <author_name>Anastasia Zavorotnyaya</author_name>
     </pyqgis_plugin>
 </plugins>
